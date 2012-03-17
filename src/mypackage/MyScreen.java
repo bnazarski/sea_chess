@@ -22,6 +22,7 @@ public final class MyScreen extends MainScreen {
 	private LabelField label;
 	player player1 = new player("pesho", 'x', true);
 	player player2 = new player("ivan", '0', false);
+//proba za github-a
 	gameEngine myGameEngine = new gameEngine(DEFAULT_SIZE);
 
 	public MyScreen() {
